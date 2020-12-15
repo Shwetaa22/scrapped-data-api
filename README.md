@@ -6,4 +6,5 @@
     command : source env/bin/activate
 3. Run requirements.txt to install all required packages.
     command : pip install -r requirements.txt
-4. Use GET request to hit api on localhost.
+4. Clone repo and checkout to master branch.
+5. Use GET request to hit api on localhost.
